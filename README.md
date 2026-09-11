@@ -30,12 +30,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daitoryo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daitoryo&theme=tokyonight" alt="GitHub Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daitoryo&theme=tokyonight" alt="Repos per Language" width="48%" />
 </p>
-
 ---
 
 ### 📬 Connect with Me
