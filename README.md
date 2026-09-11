@@ -16,12 +16,17 @@
 
 ### 🛠️ Tech Stack & Learning Journey
 
-| Tech / Skill | Proficiency Status |
-| :--- | :--- |
-| **HTML5 & CSS3** | Core syntax & structural design |
-| **JavaScript (JS)** | Main focus: Currently deep diving into advanced concepts |
-| **Python** | Just started learning 🐍 |
-| **React.js** | Basic flow & UI components |
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</p>
 
 ---
 
