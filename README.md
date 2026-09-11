@@ -1,6 +1,6 @@
 #  Daitoryo Arena 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Computer+Science+Student;Aspiring+Software+Engineer;JavaScript+%26+Python+Learner;Future+Agency+Owner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Computer+Science+Student;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 ---
 
